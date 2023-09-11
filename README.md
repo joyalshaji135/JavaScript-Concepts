@@ -1,13 +1,21 @@
 # JavaScript-Basic-Problems
-DataStructure Using Algorithm Basic Problem
+
 
 
     <table border="1">
         <tr>
-            <th>Level</th>
-            <th>SL NO</th>
-            <th>Concepts</th>
-            <th>Short Definition</th>
+            <th>
+                Level
+            </th>
+            <th>
+                SL No :
+            </th>
+            <th>
+                Javascript Concepts
+            </th>
+            <th>
+                Defining Concepts
+            </th>
         </tr>
         <tr>
             <td rowspan="2">
@@ -17,21 +25,10 @@ DataStructure Using Algorithm Basic Problem
                 1
             </td>
             <td>
-                0-Basic-of-Javascript
+                Basic of Javascript
             </td>
             <td>
-                Console.log(""); ==> Print the Output
-            </td>
-        </tr>
-        <tr>
-            <td>
-                2
-            </td>
-            <td>
-                1-Javascript-Comments
-            </td>
-            <td>
-                Single comments & Multiline comments
+                Console.log("Print the Output");
             </td>
         </tr>
     </table>
