@@ -10,7 +10,7 @@ DataStructure Using Algorithm Basic Problem
             <th>Short Definition</th>
         </tr>
         <tr>
-            <td rowspan="30">
+            <td rowspan="2">
                 Basic Level
             </td>
             <td>
@@ -23,7 +23,6 @@ DataStructure Using Algorithm Basic Problem
                 Console.log(""); ==> Print the Output
             </td>
         </tr>
-
         <tr>
             <td>
                 2
@@ -35,5 +34,4 @@ DataStructure Using Algorithm Basic Problem
                 Single comments & Multiline comments
             </td>
         </tr>
-
     </table>
