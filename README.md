@@ -2,7 +2,7 @@
 DataStructure Using Algorithm Basic Problem
 
 
-    <table border="1" style="text-align: center;">
+    <table style="text-align: center;">
         <tr>
             <th>Level</th>
             <th>SL NO</th>
