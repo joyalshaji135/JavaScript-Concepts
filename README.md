@@ -17,7 +17,7 @@ DataStructure Using Algorithm Basic Problem
                 1
             </td>
             <td>
-                0-Basic-of-Javascript
+                01-Basic-of-Javascript
             </td>
             <td>
                 Console.log(""); ==> Print the Output
@@ -28,10 +28,43 @@ DataStructure Using Algorithm Basic Problem
                 2
             </td>
             <td>
-                1-Javascript-Comments
+                02-Javascript-Comments
             </td>
             <td>
                 Single comments & Multiline comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3
+            </td>
+            <td>
+                03-Variable-Declaration-in-Javascript
+            </td>
+            <td>
+                Basic Declaration
+            </td>
+        </tr>
+        <tr>
+            <td>
+                4
+            </td>
+            <td>
+                04-Variable-Declaration-in-var,let and const-in-Javascript
+            </td>
+            <td>
+                var,let and const
+            </td>
+        </tr>
+        <tr>
+            <td>
+                5
+            </td>
+            <td>
+                05-Datatype-in-Javascript
+            </td>
+            <td>
+                Different Types of Javascript
             </td>
         </tr>
 </table>
