@@ -78,4 +78,48 @@ DataStructure Using Algorithm Basic Problem
                 Object Collection
             </td>
         </tr>
+        <tr>
+            <td>
+                7
+            </td>
+            <td>
+                07-Operation-in-Javascript
+            </td>
+            <td>
+                Arithmatic Operation,Unary Operation,Modules Operation,Exponentiation Operation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                8
+            </td>
+            <td>
+                08-Assignment-Operation-in-Javascript
+            </td>
+            <td>
+                Assignment Operation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                9
+            </td>
+            <td>
+                09-Comparison-Operation-in-Javascript
+            </td>
+            <td>
+                Comparison Operation(Equal to,Not Equal,Type,Less than,Less than or Equal to,Greater than or Equal to,Greater than)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                10
+            </td>
+            <td>
+                10-Logical-Operation-in-Javascript
+            </td>
+            <td>
+                Logical Operation(AND,OR,NOT)
+            </td>
+        </tr>
 </table>
