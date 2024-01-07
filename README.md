@@ -67,4 +67,15 @@ DataStructure Using Algorithm Basic Problem
                 Different Types of Javascript
             </td>
         </tr>
+        <tr>
+            <td>
+                6
+            </td>
+            <td>
+                06-Object-Collection-in-Javascript
+            </td>
+            <td>
+                Object Collection
+            </td>
+        </tr>
 </table>
